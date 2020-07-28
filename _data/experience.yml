@@ -1,19 +1,19 @@
 # Jobs
 
-# Trainer
-- company: GitHub, Inc.
-  position: GitHub Trainer
-  duration: March, 2012 &mdash; Present
-  summary: Teach all things Git, give away all the stickers, ensure world peace.
+# System administrator
+- company: Restaurant-Project, LLC
+  position: System administrator
+  duration: August, 2012 &mdash; January, 2014
+  summary: Maintaining corporate network and peripheral equipment performance.
 
-# Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+# Technician-programmer
+- company: RIFTEK, LLC
+  position: Technician-programmer
+  duration: February, 2014 &mdash; February, 2017
+  summary: Technical documentation development, providing technical support of 2D Laser scanners.
 
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  June 2016 &mdash; Present
-  summary: Provide world class support to customers on the GitHub for Business platform
+# Software engineer
+- company: KG Impex, LLC.
+  position: Software engineer
+  duration:  March 2017 &mdash; Present
+  summary: Software development using Qt.
