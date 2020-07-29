@@ -13,9 +13,9 @@ resume_avatar:                  "false"
 resume_name:                    "Programmer"
 resume_title:                   "Programmer"
 resume_contact_email:           "hell.w.k@gmail.com"
-# resume_contact_telephone:       "1-(877)-448-4820"
+resume_contact_telephone:       "1-(234)-567-8910"
 resume_contact_address:         "Minsk"
-# resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | services@github.com"
+resume_header_contact_info: "Minsk | hell.w.k@gmail.com"
 resume_header_intro: "<p>Seeking appotunities in web development.</p>"
 
 
